@@ -120,10 +120,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/150px-Sony_Max_new.png",SONY MAX HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+https://starshare.org:443/live/Shuvo480/2309/151.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/688px-Star_Gold_2020.svg.png",STAR GOLD HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+https://starshare.org:443/live/Shuvo480/2309/194.m3u8
 
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg",STAR GOLD SELECT HD
 https://starshare.org:443/live/Shuvo480/2309/210.m3u8
@@ -162,3 +162,66 @@ https://cdn2.pishow.tv/live/135/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLzy1LnT/20241008-185443.jpg",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KIDS",CARTOON NETWORK HD
+https://starshare.org:443/live/Shuvo480/2309/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/500px-Nick_HD_Logo.svg.png?20130329073148",Nick+ FHD
+https://starshare.org:443/live/Shuvo480/2309/7438.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/582px-POGO-logo.svg.png?20130730235301",Pogo_Hindi
+https://starshare.org:443/live/Shuvo480/2309/1918.m3u8
+
+
+                <..... SPORTS CHANNEL .....>
+
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",CRI: Sky Sport 1 HD
+https://starshare.org:443/live/Shuvo480/2309/150854.m3u8
+
+#EXTINF:-1 tvg-logo="",CRI: A SPORTS
+https://starshare.org:443/live/Shuvo480/2309/43447.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS
+https://starshare.org:443/live/Shuvo480/2309/61674.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gMr2Z2/1024x1024bb.png",T SPORTS HD
+https://starshare.org:443/live/Shuvo480/2309/113069.m3u8
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",STAR SPORT 1 HD
+https://starshare.org:443/live/Shuvo480/2309/148.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png",STAR SPORTS HINDI HD
+https://starshare.org:443/live/Shuvo480/2309/211.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WyFqRF/download-4.png",STAR SPORTS SELECT 1 HD
+https://starshare.org:443/live/Shuvo480/2309/238.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnKFDym/download-4.png",STAR SPORTS 2 HD
+https://starshare.org:443/live/Shuvo480/2309/239.m3u8
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",STAR SPORT 1 HD
+https://starshare.org:443/live/Shuvo480/2309/148.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png",SONY 5 HD
+https://starshare.org:443/live/Shuvo480/2309/176.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png",SONY Ten 2 HD.
+https://starshare.org:443/live/Shuvo480/2309/31314.m3u8
+
+#EXTINF:-1 tvg-logo="http://stariptv.fun/logos/Sports18Khel.png",Sports 18 Khel
+https://starshare.org:443/live/Shuvo480/2309/151091.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9yh9Yjd/download-4.png",STAR SPORTS 3
+https://starshare.org:443/live/Shuvo480/2309/1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4yVGKQ/Sony-Sports-Ten-3.png",SONY TEN 3 HD
+https://starshare.org:443/live/Shuvo480/2309/146.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HtV5jJ/Sony-Sports-Ten-1.png",SONY TEN 1 HD
+https://starshare.org:443/live/Shuvo480/2309/154.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",SONY TEN 4 (4K)
+https://starshare.org:443/live/Shuvo480/2309/29469.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Sports18  (4K)
+https://starshare.org:443/live/Shuvo480/2309/128843.m3u8
