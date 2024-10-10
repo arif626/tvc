@@ -7,7 +7,7 @@
     <title>INDCAST</title>
     <meta name="description" content="ENJOY FREE LIVE IPTV">
     <meta name="keywords" content="Watch live sports streaming online, including football, basketball, baseball, hockey, and more. Stream your favorite sports teams and events in HD, with no cable subscription required.">
-    <meta name="author" content="Ariful Islam">
+    <meta name="author" content="Masud Rana">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
 
@@ -43,6 +43,12 @@
             <!-- Channels will be dynamically loaded here -->
         </div>
     </div>
+	
+	<script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool'></script>
+	<!--Use the specified version-->
+<script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool@x.x.x'></script>
+<!--Use latest version-->
+<script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool@latest'></script>
 
     <script>
         const video = document.getElementById('videoPlayer');
@@ -61,7 +67,7 @@
 
         // Load demo video when the page loads
         document.addEventListener('DOMContentLoaded', function () {
-            const demoVideoUrl = 'https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=GOnEQlWiFwXbbjGLS5Tigg&expires=1728756107&user=d477246e9e724f81a011b847457e71c4';
+            const demoVideoUrl = '';
             loadVideo(demoVideoUrl);
 
             // Fetch and load channels
@@ -86,7 +92,7 @@
         function loadChannels() {
             // Simulate delay for loading channels
             setTimeout(() => {
-                fetch('https://raw.githubusercontent.com/arif626/tv/refs/heads/main/BDIX%20BD.m3u')
+                fetch('https://raw.githubusercontent.com/RsLive-Tv/Rs-App/refs/heads/main/Playlist.m3u')
                     .then(response => response.text())
                     .then(data => {
                         const lines = data.split('\n');
@@ -274,51 +280,6 @@
             }
         }
     </style>
-
-<!------------------Disable right-click of mouse, F12 key, and save key combinations on page -------------------------->
-
-<script language="JavaScript">
-
-  window.onload = function() {
-    document.addEventListener("contextmenu", function(e){
-      e.preventDefault();
-    }, false);
-    document.addEventListener("keydown", function(e) {
-    //document.onkeydown = function(e) {
-      // "I" key
-      if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
-        disabledEvent(e);
-      }
-      // "J" key
-      if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
-        disabledEvent(e);
-      }
-      // "S" key + macOS
-      if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
-        disabledEvent(e);
-      }
-      // "U" key
-      if (e.ctrlKey && e.keyCode == 85) {
-        disabledEvent(e);
-      }
-      // "F12" key
-      if (event.keyCode == 123) {
-        disabledEvent(e);
-      }
-    }, false);
-    function disabledEvent(e){
-      if (e.stopPropagation){
-        e.stopPropagation();
-      } else if (window.event){
-        window.event.cancelBubble = true;
-      }
-      e.preventDefault();
-      return false;
-    }
-  };
-</script>
-
-
 
 </body>
 
