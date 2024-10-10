@@ -119,6 +119,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="ZEE5",Zing 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 
+#EXTINF:-1 tvg-logo="http://geo-iptv.com/channels_icon_api/07547230daed982fcf56f85dccfb9617.png",IN: SONY MAX HD
+https://starshare.org:443/live/Shuvo480/2309/151.ts
+
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/01/Star_Gold.png",IN: STAR GOLD HD
+https://starshare.org:443/live/Shuvo480/2309/194.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qkgW1nd/c0a0c8607691347e22942f2b86473199.png",IN: STAR GOLD SELECT HD
+https://starshare.org:443/live/Shuvo480/2309/210.ts
+
+
                   <..... MUSIC CHANNEL .....>
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",SANGEET BANGLA
