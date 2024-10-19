@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
-https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
+http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
    
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdWFvmgVxUvsgtkDTk53gn8AymliV4aPPntvMys4Ol9DHu0SsK2nK6l7M&s=10" group-title="Grope Name", SKY Sports Cricket 
 https://starshare.org:443/live/Shuvo480/2309/12.m3u8
@@ -13,7 +13,7 @@ https://starshare.org:443/live/Shuvo480/2309/43447.m3u8
 https://starshare.org:443/live/Shuvo480/2309/215.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports 
-https://fifabd.xyz/TTT/play.m3u8?id=2&q=720
+http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
 
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png",STAR SPORT 1 HD
 https://starshare.org:443/live/Shuvo480/2309/9399.m3u8
