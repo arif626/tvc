@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports
-https://starshare.org:443/live/Shuvo480/2309/18452.m3u8
+https://cdn.livestreambd.com/TSports/index.m3u8
    
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdWFvmgVxUvsgtkDTk53gn8AymliV4aPPntvMys4Ol9DHu0SsK2nK6l7M&s=10" group-title="Grope Name", SKY Sports Cricket 
 https://starshare.org:443/live/Shuvo480/2309/12.m3u8
@@ -23,3 +23,6 @@ https://starshare.org:443/live/Shuvo480/2309/154.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",SONY TEN 2 HD
 https://starshare.org:443/live/Shuvo480/2309/31314.m3u8
+
+#EXTINF:-1 tvg-logo="",GAZI TV
+https://hotflixbd.online/GTV/index.m3u8
