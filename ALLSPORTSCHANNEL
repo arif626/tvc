@@ -24,6 +24,9 @@ https://starshare.org:443/live/Shuvo480/2309/154.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",SONY TEN 2 HD
 https://starshare.org:443/live/Shuvo480/2309/31314.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORTS", Astro Cricket
+https://starshare.org:443/live/Shuvo480/2309/143056.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Grope Name", Sports 1 HD 
 https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v3a1/mono.m3u8
 
@@ -38,3 +41,10 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV5/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-6-2619.png" group-title="SPORTS", Sports Tv 6 HD 
 https://8r1fp7ro6am.a.trbcdn.net/SportTV6/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ve4nWezHoaSvbvgaIoLVq1jsQOjx5ogIA_iFhL8fvNHyXLqFFcqi9rqvOVbHko_zsJ2oFVAkrg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS", A Sports 
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7L4Hdkp3/20241014-103856.png" group-title="SPORTS", Euro Sports 1 HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8 
+
