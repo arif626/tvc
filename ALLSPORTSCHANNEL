@@ -24,5 +24,17 @@ https://starshare.org:443/live/Shuvo480/2309/154.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png",SONY TEN 2 HD
 https://starshare.org:443/live/Shuvo480/2309/31314.m3u8
 
-#EXTINF:-1 tvg-logo="",GAZI TV
-https://hotflixbd.online/GTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Grope Name", Sports 1 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1vFQKIGbzjmhoSjHiMASKKEuysd8NKpBbhA&usqp=CAU" group-title="SPORTS", Sports 3 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV3/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9CvrQlbD2idF8I__TRfgb6Qw3Ks4lLiR4g&usqp=CAU" group-title="SPORTS", Sports 4 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSZD4MxjaymuNQaNLYbDjJ2vr8sjAYyxwZw&usqp=CAU" group-title="SPORTS", Sports Tv 5 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV5/tracks-v2a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-tv-6-2619.png" group-title="SPORTS", Sports Tv 6 HD 
+https://8r1fp7ro6am.a.trbcdn.net/SportTV6/tracks-v2a1/mono.m3u8
